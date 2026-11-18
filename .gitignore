@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+ddl/
+.ddl_snapshot.json
+*.validated.sql
+*.report.md
+.venv/
+.venv-build/
+build/
+dist/
+ddls/
+*.deploy.sql
